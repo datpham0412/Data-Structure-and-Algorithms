@@ -1,0 +1,20 @@
+0 XOR 0 = 0
+1 XOR 1 = 0
+0 XOR 1 = 1
+1 XOR 0 = 1
+
+A number XORed with itself is 0 (i.e., 
+𝑥
+⊕
+𝑥
+=
+0
+x⊕x=0).
+A number XORed with 0 is the number itself (i.e., 
+𝑥
+⊕
+0
+=
+𝑥
+x⊕0=x).
+XOR is commutative and associative, which means the order in which you apply XOR does not matter.
